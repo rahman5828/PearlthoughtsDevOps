@@ -19,3 +19,4 @@
 - **Credential Resolution:** Resolved `InvalidClientTokenId` by switching from hardcoded keys to the `aws configure` CLI method.
 - **AMI Handling:** Fixed `InvalidAMIID.Malformed` errors by replacing static AMI IDs with a dynamic search filter.
 - **Eligibility Fix:** Resolved `InvalidParameterCombination` by switching the instance type from `t2.micro` to `t3.micro` to comply with regional Free Tier rules. ![alt text](image-1.png)
+![alt text](image-2.png)
