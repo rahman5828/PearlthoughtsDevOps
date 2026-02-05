@@ -1,0 +1,1 @@
+variable "ami_id" { default = "ami-0e2c8ccd4e0269736" }
