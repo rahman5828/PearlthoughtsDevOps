@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"strapi_app","Source":"./modules/ec2_strapi","Dir":"modules/ec2_strapi"}]}
